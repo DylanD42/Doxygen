@@ -1,4 +1,4 @@
 <map id="Officer" name="Officer">
-<area shape="rect" id="node1" title=" " alt="" coords="16,80,81,107"/>
-<area shape="rect" id="node2" href="$classEmployee.html" title=" " alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node1" title="Represents an officer who is a type of employee with an additional attribute for evilness...." alt="" coords="16,80,81,107"/>
+<area shape="rect" id="node2" href="$classEmployee.html" title="Represents an employee with basic attributes such as ID, years of service, hourly rate,..." alt="" coords="5,5,92,32"/>
 </map>

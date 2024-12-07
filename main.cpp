@@ -1,4 +1,13 @@
-
+/**
+ * @file main.cpp
+ * @author Dylan Daniels
+ * @date 2024-12-06
+ * @brief Main driver program to test Employee, Supervisor, and Officer classes
+ * 
+ * The program tests the behavior of the Employee, Supervisor, and Officer classes, including both
+ * default and parameterized constructors, printing employee details, calculating pay, and handling
+ * anniversary updates.
+ */
 #include <iostream>
 #include "Employee.h"
 #include "Supervisor.h"
